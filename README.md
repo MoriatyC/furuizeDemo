@@ -1,2 +1,2 @@
 # furuizeDemo
-金融模型好人坏人预测demo
+用来预测金融模型中好人坏人概率的demo。
