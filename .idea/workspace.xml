@@ -13,13 +13,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ApiDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ApiDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../demo/src/main/java/sample/ApiDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+            <state relative-caret-position="361">
+              <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1675#1676#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpEntityEnclosingRequestBase.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="e#631#632#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EasyModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../demo/src/main/java/model/EasyModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1419#1420#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,12 +93,17 @@
       <find>client</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../demo" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/sample/ApiDemo.java" />
         <option value="$PROJECT_DIR$/../demo/pom.xml" />
         <option value="$PROJECT_DIR$/../demo/src/main/java/common/ErrorCode.java" />
+        <option value="$PROJECT_DIR$/../demo/src/main/java/model/EasyModel.java" />
         <option value="$PROJECT_DIR$/../demo/src/main/java/sample/ApiDemo.java" />
       </list>
     </option>
@@ -99,11 +140,14 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="994" />
     <option name="y" value="187" />
     <option name="width" value="1678" />
     <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -168,8 +212,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,38 +299,39 @@
       <option name="presentableId" value="Default" />
       <updated>1537512486438</updated>
       <workItem from="1537512488554" duration="1260000" />
-      <workItem from="1537838688937" duration="5172000" />
+      <workItem from="1537838688937" duration="12240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6432000" />
+    <option name="totallyTimeSpent" value="13500000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4968017" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49307036" weight="0.32885906" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.34078214" />
-      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35980812" side_tool="true" visible="true" weight="0.4049217" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4978678" visible="true" weight="0.34078214" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5986141" weight="0.40044743" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14179105" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.64179105" weight="0.35642457" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.6401919" visible="true" weight="0.4049217" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -304,12 +351,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../demo/src/main/java/sample/ApiDemo.java</url>
-          <line>30</line>
+          <line>35</line>
           <properties />
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -328,6 +375,8 @@
           <caret line="12" column="19" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -353,12 +402,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../demo/src/main/java/model/EasyModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../demo/src/main/java/sample/ApiDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        <state relative-caret-position="361">
+          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/HttpEntity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
           </folding>
         </state>
       </provider>
