@@ -30,10 +30,15 @@ public class ApiDemo {
         process(URL_FAILED, getPersonInfo());
     }
 
+    /**
+     * @param url  rest api 的url
+     * @param model 传入人物信息的的model
+     */
     public static void process(String url, EasyModel model) {
         try {
-//            调用api
+//          调用api
             String json = call(url, model);
+//            自定义处理过程
             JSONObject jsonObject = JSONObject.parseObject(json);
             if (jsonObject.getBoolean(SUCCESS_KEY)) {
                 /*
