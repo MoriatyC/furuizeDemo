@@ -70,7 +70,7 @@ public class ApiDemo {
         HttpPost request = new HttpPost(url);
 
 
-        // 3.将用户数据转为json通过post上传。
+        // 3.将用户数据转为json通过post上传
         StringEntity entity = new StringEntity(JSON.toJSONString(model), "utf-8");//解决中文乱码问题
         entity.setContentEncoding("UTF-8");
         entity.setContentType("application/json");
